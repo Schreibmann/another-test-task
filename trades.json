@@ -1,0 +1,90 @@
+[
+  { "date": "1/18/2018", 
+    "buy": {"currency": "ETH", "amount": "100"}, 
+    "sell": {"currency": "USDT", "amount": "-100,000.00"}
+  },
+  { "date": "1/18/2018",
+    "buy": {"currency": "BCH", "amount": "57"},
+    "sell": {"currency": "USDT", "amount": "-100,890.00"} 
+  },
+  { "date": "1/18/2018",
+    "buy": {"currency": "XMR", "amount": "40,000.00"},
+    "sell": {"currency": "USDT", "amount": "-36,800.00"} 
+  },    
+  { "date": "1/18/2018",
+    "buy": {"currency": "XRP", "amount": "28,630.00"},
+    "sell": {"currency": "USDT", "amount": "-37,505.30"} 
+  },
+  { "date": "1/18/2018",
+    "buy": {"currency": "NEO", "amount": "83.00"},
+    "sell": {"currency": "USDT", "amount": "-12,450.00"} 
+  },
+  { "date": "1/21/2018",
+    "buy": {"currency": "USDT", "amount": "102,000.00"},
+    "sell": {"currency": "ETH", "amount": "-100.00"} 
+  },
+  { "date": "1/21/2018",
+    "buy": {"currency": "USDT", "amount": "98,610.00"},
+    "sell": {"currency": "BCH", "amount": "-57.00"} 
+  },  
+  { "date": "1/21/2018",
+    "buy": {"currency": "USDT", "amount": "224,700.00"},
+    "sell": {"currency": "BTC", "amount": "-20.00"} 
+  },  
+  { "date": "1/21/2018",
+    "buy": {"currency": "USDT", "amount": "37,791.60"},
+    "sell": {"currency": "XRP", "amount": "-28,630.00"} 
+  },  
+  { "date": "1/30/2018",
+    "buy": {"currency": "USDT", "amount": "187,184.00"},
+    "sell": {"currency": "BCH", "amount": "-121.27"} 
+  },  
+  { "date": "1/30/2018",
+    "buy": {"currency": "USDT", "amount": "234,493.55"},
+    "sell": {"currency": "BTC", "amount": "-22.71"} 
+  },
+  { "date": "1/27/2018",
+    "buy": {"currency": "USDT", "amount": "94,360.80"},
+    "sell": {"currency": "ETH", "amount": "-80.00"} 
+  },
+  { "date": "1/27/2018",
+    "buy": {"currency": "USDT", "amount": "147,438.75"},
+    "sell": {"currency": "ETH", "amount": "-125.00"} 
+  },
+  { "date": "1/30/2018",
+    "buy": {"currency": "USDT", "amount": "54,391.05"},
+    "sell": {"currency": "ETH", "amount": "-48.71"} 
+  },
+  { "date": "2/2/2018",
+    "buy": {"currency": "BTC", "amount": "11.22"},
+    "sell": {"currency": "USDT", "amount": "-98,982.84"} 
+  },
+  { "date": "2/7/2018",
+    "buy": {"currency": "BTC", "amount": "17.86"},
+    "sell": {"currency": "USDT", "amount": "-150,000.00"} 
+  },
+  { "date": "2/7/2018",
+    "buy": {"currency": "BTC", "amount": "17.86"},
+    "sell": {"currency": "USDT", "amount": "-150,000.00"} 
+  },
+  { "date": "2/8/2018",
+    "buy": {"currency": "USDT", "amount": "141,094.00"},
+    "sell": {"currency": "BTC", "amount": "-17.86"} 
+  },
+  { "date": "2/9/2018",
+    "buy": {"currency": "BTC", "amount": "2.00"},
+    "sell": {"currency": "USDT", "amount": "-16,640.00"} 
+  },
+  { "date": "2/9/2018",
+    "buy": {"currency": "BTC", "amount": "34.40"},
+    "sell": {"currency": "USDT", "amount": "-300,000.00"} 
+  },
+  { "date": "2/9/2018",
+    "buy": {"currency": "USDT", "amount": "144,500.00"},
+    "sell": {"currency": "BTC", "amount": "-17.00"} 
+  },
+  { "date": "2/10/2018",
+    "buy": {"currency": "XRP", "amount": "26,785.71"},
+    "sell": {"currency": "USDT", "amount": "-30,000.00"} 
+  }             
+] 
